@@ -70,6 +70,7 @@ def render_table(targets, merged=False):
 
     for index, stock in enumerate(targets):
         row_class = "row-yellow" if index % 2 == 0 else "row-pink"
+
         first_detected = stock.get("first_detected", "-") if merged else "-"
         detected_count = stock.get("detected_count", "-") if merged else "-"
 
@@ -122,6 +123,7 @@ def render_cards(targets, merged=False):
 
     for index, stock in enumerate(targets):
         card_class = "card-yellow" if index % 2 == 0 else "card-pink"
+
         first_detected = stock.get("first_detected", "-") if merged else "-"
         detected_count = stock.get("detected_count", "-") if merged else "-"
 
@@ -388,6 +390,10 @@ a {{
         display: block;
     }}
 
+    .history-section {{
+        display: none;
+    }}
+
     h1 {{
         font-size: 21px;
     }}
@@ -421,9 +427,11 @@ a {{
 
     for snapshot in snapshots:
         html += f"""
+<div class="history-section">
 <h2>{escape(snapshot["time"])} 取得結果</h2>
 <p>ランキング取得：{len(snapshot["stocks"])}件 / 条件該当：{len(snapshot["targets"])}件</p>
 {render_result_block(snapshot["targets"], merged=False)}
+</div>
 """
 
     html += """
