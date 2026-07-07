@@ -1,0 +1,8 @@
+{
+  "name": "株分析ツール",
+  "short_name": "株分析",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f6f8",
+  "theme_color": "#333333"
+}
