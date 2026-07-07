@@ -1,5 +1,5 @@
 import json
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from html import escape
 
@@ -13,7 +13,9 @@ INDEX_PATH = DOCS_DIR / "index.html"
 
 
 def now_jst():
-    return datetime.utcnow()
+    return datetime.now(timezone.utc).astimezone(
+        timezone(timedelta(hours=9))
+    )
 
 
 def load_data(today):
@@ -264,7 +266,7 @@ if ("serviceWorker" in navigator) {
 
 
 def main():
-    now = datetime.now()
+    now = now_jst()
     today = now.strftime("%Y-%m-%d")
     current_time = now.strftime("%H:%M")
 
@@ -275,7 +277,6 @@ def main():
     stocks = get_top150()
     targets = analyze_stocks(stocks)
 
-    # 同じ時刻のデータが既にある場合は上書き
     data["snapshots"] = [
         s for s in data["snapshots"]
         if s["time"] != current_time
