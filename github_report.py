@@ -41,6 +41,13 @@ def save_data(data):
     )
 
 
+def sort_by_drop_rate(targets):
+    return sorted(
+        targets,
+        key=lambda stock: stock.get("diff_percent_num", 0)
+    )
+
+
 def merge_targets(snapshots):
     merged = {}
 
@@ -62,10 +69,12 @@ def merge_targets(snapshots):
                 stock_copy["detected_count"] = len(stock_copy["detected_times"])
                 merged[code] = stock_copy
 
-    return list(merged.values())
+    return sort_by_drop_rate(list(merged.values()))
 
 
 def render_table(targets, merged=False):
+    targets = sort_by_drop_rate(targets)
+
     rows = ""
 
     for index, stock in enumerate(targets):
@@ -119,6 +128,8 @@ def render_table(targets, merged=False):
 
 
 def render_cards(targets, merged=False):
+    targets = sort_by_drop_rate(targets)
+
     cards = ""
 
     for index, stock in enumerate(targets):
@@ -168,10 +179,6 @@ def render_cards(targets, merged=False):
             <strong>{stock["price_14"]:,.1f}</strong>
         </div>
     </div>
-
-    <a class="yahoo-button" href="https://finance.yahoo.co.jp/quote/{stock["code"]}.T" target="_blank">
-        Yahooで開く
-    </a>
 </div>
 """
 
@@ -348,7 +355,7 @@ a {{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     gap: 8px;
-    margin-bottom: 12px;
+    margin-bottom: 2px;
 }}
 
 .price-grid div,
@@ -365,16 +372,6 @@ a {{
     color: #555;
     margin-bottom: 4px;
     text-align: left;
-}}
-
-.yahoo-button {{
-    display: block;
-    text-align: center;
-    background: #333;
-    color: white;
-    padding: 10px;
-    border-radius: 10px;
-    font-weight: bold;
 }}
 
 @media (max-width: 700px) {{
@@ -413,6 +410,7 @@ a {{
 <p>最新更新：{escape(updated_at)}</p>
 <p>対象：売買代金ランキング150位以内</p>
 <p>抽出条件：前日比 -6.0% 以下</p>
+<p>表示順：下落率が大きい順</p>
 <p>ページは60秒ごとに自動更新されます。</p>
 </div>
 
