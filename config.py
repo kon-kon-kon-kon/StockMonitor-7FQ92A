@@ -2,6 +2,6 @@ BASE_URL = "https://finance.yahoo.co.jp/stocks/ranking/tradingValueHigh?market=a
 
 TARGET_PAGES = [1, 2, 3]
 
-DROP_THRESHOLD = -6.0
+DROP_THRESHOLD = -3.0
 
 HEADLESS = True
