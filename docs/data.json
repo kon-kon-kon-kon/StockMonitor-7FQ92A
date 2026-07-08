@@ -8510,6 +8510,1362 @@
           "price_14": 2855.2
         }
       ]
+    },
+    {
+      "time": "13:00",
+      "stocks": [
+        {
+          "rank": 1,
+          "code": "285A",
+          "company": "キオクシアホールディングス(株)",
+          "price": "74,460",
+          "diff_yen": "+2,060",
+          "diff_percent": "+2.85",
+          "trading_value": "2,376,776,131,000"
+        },
+        {
+          "rank": 2,
+          "code": "6976",
+          "company": "太陽誘電(株)",
+          "price": "15,640",
+          "diff_yen": "-715",
+          "diff_percent": "-4.37",
+          "trading_value": "265,234,833,000"
+        },
+        {
+          "rank": 3,
+          "code": "6981",
+          "company": "(株)村田製作所",
+          "price": "9,363",
+          "diff_yen": "+151",
+          "diff_percent": "+1.64",
+          "trading_value": "245,960,169,800"
+        },
+        {
+          "rank": 4,
+          "code": "1570",
+          "company": "(NEXT FUNDS)日経平均レバレッジ上場投信",
+          "price": "74,530",
+          "diff_yen": "-870",
+          "diff_percent": "-1.15",
+          "trading_value": "231,589,523,750"
+        },
+        {
+          "rank": 5,
+          "code": "8035",
+          "company": "東京エレクトロン(株)",
+          "price": "68,690",
+          "diff_yen": "-780",
+          "diff_percent": "-1.12",
+          "trading_value": "179,020,253,000"
+        },
+        {
+          "rank": 6,
+          "code": "6857",
+          "company": "(株)アドバンテスト",
+          "price": "28,515",
+          "diff_yen": "-385",
+          "diff_percent": "-1.33",
+          "trading_value": "164,225,731,500"
+        },
+        {
+          "rank": 7,
+          "code": "9984",
+          "company": "ソフトバンクグループ(株)",
+          "price": "5,845",
+          "diff_yen": "+74",
+          "diff_percent": "+1.28",
+          "trading_value": "134,004,311,500"
+        },
+        {
+          "rank": 8,
+          "code": "5803",
+          "company": "(株)フジクラ",
+          "price": "4,992",
+          "diff_yen": "-80",
+          "diff_percent": "-1.58",
+          "trading_value": "119,501,880,800"
+        },
+        {
+          "rank": 9,
+          "code": "4062",
+          "company": "イビデン(株)",
+          "price": "19,775",
+          "diff_yen": "-120",
+          "diff_percent": "-0.60",
+          "trading_value": "114,527,595,500"
+        },
+        {
+          "rank": 10,
+          "code": "6920",
+          "company": "レーザーテック(株)",
+          "price": "43,100",
+          "diff_yen": "-950",
+          "diff_percent": "-2.16",
+          "trading_value": "76,507,738,000"
+        },
+        {
+          "rank": 11,
+          "code": "6146",
+          "company": "(株)ディスコ",
+          "price": "69,760",
+          "diff_yen": "-2,140",
+          "diff_percent": "-2.98",
+          "trading_value": "73,947,948,000"
+        },
+        {
+          "rank": 12,
+          "code": "8306",
+          "company": "(株)三菱ＵＦＪフィナンシャル・グループ",
+          "price": "3,464",
+          "diff_yen": "+18",
+          "diff_percent": "+0.52",
+          "trading_value": "70,953,005,300"
+        },
+        {
+          "rank": 13,
+          "code": "6525",
+          "company": "(株)ＫＯＫＵＳＡＩ　ＥＬＥＣＴＲＩＣ",
+          "price": "9,888",
+          "diff_yen": "-352",
+          "diff_percent": "-3.44",
+          "trading_value": "66,954,204,700"
+        },
+        {
+          "rank": 14,
+          "code": "7011",
+          "company": "三菱重工業(株)",
+          "price": "3,891",
+          "diff_yen": "-118",
+          "diff_percent": "-2.94",
+          "trading_value": "58,645,835,500"
+        },
+        {
+          "rank": 15,
+          "code": "3436",
+          "company": "(株)ＳＵＭＣＯ",
+          "price": "4,564",
+          "diff_yen": "-6",
+          "diff_percent": "-0.13",
+          "trading_value": "56,717,306,900"
+        },
+        {
+          "rank": 16,
+          "code": "1357",
+          "company": "(NEXT FUNDS) 日経ダブルインバース上場投信",
+          "price": "2,707",
+          "diff_yen": "+28",
+          "diff_percent": "+1.05",
+          "trading_value": "56,271,405,927"
+        },
+        {
+          "rank": 17,
+          "code": "5016",
+          "company": "ＪＸ金属(株)",
+          "price": "3,769",
+          "diff_yen": "-86",
+          "diff_percent": "-2.23",
+          "trading_value": "54,904,003,800"
+        },
+        {
+          "rank": 18,
+          "code": "6723",
+          "company": "ルネサスエレクトロニクス(株)",
+          "price": "4,741",
+          "diff_yen": "-3",
+          "diff_percent": "-0.06",
+          "trading_value": "51,184,435,200"
+        },
+        {
+          "rank": 19,
+          "code": "9983",
+          "company": "(株)ファーストリテイリング",
+          "price": "87,960",
+          "diff_yen": "+60",
+          "diff_percent": "+0.07",
+          "trading_value": "50,752,089,000"
+        },
+        {
+          "rank": 20,
+          "code": "8316",
+          "company": "(株)三井住友フィナンシャルグループ",
+          "price": "6,888",
+          "diff_yen": "+76",
+          "diff_percent": "+1.12",
+          "trading_value": "46,121,867,000"
+        },
+        {
+          "rank": 21,
+          "code": "5801",
+          "company": "古河電気工業(株)",
+          "price": "3,604",
+          "diff_yen": "-70",
+          "diff_percent": "-1.91",
+          "trading_value": "45,339,236,100"
+        },
+        {
+          "rank": 22,
+          "code": "7203",
+          "company": "トヨタ自動車(株)",
+          "price": "2,914.5",
+          "diff_yen": "-31.5",
+          "diff_percent": "-1.07",
+          "trading_value": "44,807,122,800"
+        },
+        {
+          "rank": 23,
+          "code": "5802",
+          "company": "住友電気工業(株)",
+          "price": "2,420.5",
+          "diff_yen": "-22.5",
+          "diff_percent": "-0.92",
+          "trading_value": "43,876,234,750"
+        },
+        {
+          "rank": 24,
+          "code": "6752",
+          "company": "パナソニック　ホールディングス(株)",
+          "price": "4,426",
+          "diff_yen": "+26",
+          "diff_percent": "+0.59",
+          "trading_value": "36,276,276,100"
+        },
+        {
+          "rank": 25,
+          "code": "8411",
+          "company": "(株)みずほフィナンシャルグループ",
+          "price": "8,358",
+          "diff_yen": "+131",
+          "diff_percent": "+1.59",
+          "trading_value": "35,070,566,300"
+        },
+        {
+          "rank": 26,
+          "code": "7735",
+          "company": "(株)ＳＣＲＥＥＮホールディングス",
+          "price": "17,405",
+          "diff_yen": "+315",
+          "diff_percent": "+1.84",
+          "trading_value": "32,771,606,500"
+        },
+        {
+          "rank": 27,
+          "code": "7974",
+          "company": "任天堂(株)",
+          "price": "7,149",
+          "diff_yen": "+1",
+          "diff_percent": "+0.01",
+          "trading_value": "30,366,237,900"
+        },
+        {
+          "rank": 28,
+          "code": "6954",
+          "company": "ファナック(株)",
+          "price": "6,872",
+          "diff_yen": "-200",
+          "diff_percent": "-2.83",
+          "trading_value": "29,509,327,900"
+        },
+        {
+          "rank": 29,
+          "code": "6762",
+          "company": "ＴＤＫ(株)",
+          "price": "3,377",
+          "diff_yen": "+20",
+          "diff_percent": "+0.60",
+          "trading_value": "29,383,474,400"
+        },
+        {
+          "rank": 30,
+          "code": "7013",
+          "company": "(株)ＩＨＩ",
+          "price": "2,913",
+          "diff_yen": "-69",
+          "diff_percent": "-2.31",
+          "trading_value": "28,235,463,250"
+        },
+        {
+          "rank": 31,
+          "code": "5706",
+          "company": "三井金属(株)",
+          "price": "34,650",
+          "diff_yen": "-1,280",
+          "diff_percent": "-3.56",
+          "trading_value": "27,403,873,000"
+        },
+        {
+          "rank": 32,
+          "code": "6758",
+          "company": "ソニーグループ(株)",
+          "price": "3,508",
+          "diff_yen": "+6",
+          "diff_percent": "+0.17",
+          "trading_value": "26,074,402,100"
+        },
+        {
+          "rank": 33,
+          "code": "9432",
+          "company": "ＮＴＴ(株)",
+          "price": "150",
+          "diff_yen": "+2",
+          "diff_percent": "+1.35",
+          "trading_value": "26,029,878,750"
+        },
+        {
+          "rank": 34,
+          "code": "8766",
+          "company": "東京海上ホールディングス(株)",
+          "price": "7,735",
+          "diff_yen": "+19",
+          "diff_percent": "+0.25",
+          "trading_value": "25,677,290,200"
+        },
+        {
+          "rank": 35,
+          "code": "1360",
+          "company": "日経平均ベア2倍上場投信",
+          "price": "66.3",
+          "diff_yen": "+0.6",
+          "diff_percent": "+0.91",
+          "trading_value": "25,522,352,675"
+        },
+        {
+          "rank": 36,
+          "code": "4004",
+          "company": "(株)レゾナック・ホールディングス",
+          "price": "15,885",
+          "diff_yen": "+210",
+          "diff_percent": "+1.34",
+          "trading_value": "23,240,490,500"
+        },
+        {
+          "rank": 37,
+          "code": "6501",
+          "company": "(株)日立製作所",
+          "price": "4,844",
+          "diff_yen": "-98",
+          "diff_percent": "-1.98",
+          "trading_value": "23,134,959,500"
+        },
+        {
+          "rank": 38,
+          "code": "6506",
+          "company": "(株)安川電機",
+          "price": "6,788",
+          "diff_yen": "-112",
+          "diff_percent": "-1.62",
+          "trading_value": "23,131,052,500"
+        },
+        {
+          "rank": 39,
+          "code": "6098",
+          "company": "(株)リクルートホールディングス",
+          "price": "12,325",
+          "diff_yen": "+25",
+          "diff_percent": "+0.20",
+          "trading_value": "21,759,316,500"
+        },
+        {
+          "rank": 40,
+          "code": "1458",
+          "company": "楽天 ETF-日経レバレッジ指数連動型",
+          "price": "88,870",
+          "diff_yen": "-1,070",
+          "diff_percent": "-1.19",
+          "trading_value": "21,714,155,550"
+        },
+        {
+          "rank": 41,
+          "code": "8031",
+          "company": "三井物産(株)",
+          "price": "4,724",
+          "diff_yen": "+47",
+          "diff_percent": "+1.00",
+          "trading_value": "21,671,800,800"
+        },
+        {
+          "rank": 42,
+          "code": "8058",
+          "company": "三菱商事(株)",
+          "price": "4,509",
+          "diff_yen": "+9",
+          "diff_percent": "+0.20",
+          "trading_value": "21,561,151,500"
+        },
+        {
+          "rank": 43,
+          "code": "6861",
+          "company": "(株)キーエンス",
+          "price": "75,980",
+          "diff_yen": "-2,200",
+          "diff_percent": "-2.81",
+          "trading_value": "19,675,409,000"
+        },
+        {
+          "rank": 44,
+          "code": "2914",
+          "company": "ＪＴ",
+          "price": "6,263",
+          "diff_yen": "+44",
+          "diff_percent": "+0.71",
+          "trading_value": "19,310,477,400"
+        },
+        {
+          "rank": 45,
+          "code": "6367",
+          "company": "ダイキン工業(株)",
+          "price": "25,700",
+          "diff_yen": "-280",
+          "diff_percent": "-1.08",
+          "trading_value": "18,855,324,000"
+        },
+        {
+          "rank": 46,
+          "code": "4063",
+          "company": "信越化学工業(株)",
+          "price": "7,068",
+          "diff_yen": "-90",
+          "diff_percent": "-1.26",
+          "trading_value": "18,559,344,900"
+        },
+        {
+          "rank": 47,
+          "code": "6503",
+          "company": "三菱電機(株)",
+          "price": "5,795",
+          "diff_yen": "-152",
+          "diff_percent": "-2.56",
+          "trading_value": "17,978,216,500"
+        },
+        {
+          "rank": 48,
+          "code": "7012",
+          "company": "川崎重工業(株)",
+          "price": "2,848.5",
+          "diff_yen": "-89.5",
+          "diff_percent": "-3.05",
+          "trading_value": "17,148,880,500"
+        },
+        {
+          "rank": 49,
+          "code": "6963",
+          "company": "ローム(株)",
+          "price": "5,449",
+          "diff_yen": "+88",
+          "diff_percent": "+1.64",
+          "trading_value": "17,059,270,100"
+        },
+        {
+          "rank": 50,
+          "code": "200A",
+          "company": "(NEXT FUNDS) 日経半導体株指数連動型上場投信",
+          "price": "5,256",
+          "diff_yen": "-2",
+          "diff_percent": "-0.04",
+          "trading_value": "15,938,113,383"
+        },
+        {
+          "rank": 51,
+          "code": "6701",
+          "company": "ＮＥＣ",
+          "price": "4,378",
+          "diff_yen": "+30",
+          "diff_percent": "+0.69",
+          "trading_value": "15,137,321,700"
+        },
+        {
+          "rank": 52,
+          "code": "6871",
+          "company": "(株)日本マイクロニクス",
+          "price": "15,550",
+          "diff_yen": "+390",
+          "diff_percent": "+2.57",
+          "trading_value": "14,785,964,000"
+        },
+        {
+          "rank": 53,
+          "code": "9433",
+          "company": "ＫＤＤＩ(株)",
+          "price": "2,825",
+          "diff_yen": "+46",
+          "diff_percent": "+1.66",
+          "trading_value": "14,394,623,100"
+        },
+        {
+          "rank": 54,
+          "code": "1321",
+          "company": "(NEXT FUNDS)日経225連動型上場投信",
+          "price": "70,410",
+          "diff_yen": "-650",
+          "diff_percent": "-0.91",
+          "trading_value": "14,197,881,950"
+        },
+        {
+          "rank": 55,
+          "code": "1579",
+          "company": "日経平均ブル2倍上場投信",
+          "price": "805.4",
+          "diff_yen": "-9.4",
+          "diff_percent": "-1.15",
+          "trading_value": "14,051,851,814"
+        },
+        {
+          "rank": 56,
+          "code": "6526",
+          "company": "(株)ソシオネクスト",
+          "price": "2,659.5",
+          "diff_yen": "+16.5",
+          "diff_percent": "+0.62",
+          "trading_value": "13,832,004,900"
+        },
+        {
+          "rank": 57,
+          "code": "7741",
+          "company": "ＨＯＹＡ(株)",
+          "price": "24,770",
+          "diff_yen": "-875",
+          "diff_percent": "-3.41",
+          "trading_value": "13,782,145,000"
+        },
+        {
+          "rank": 58,
+          "code": "6522",
+          "company": "(株)アスタリスク",
+          "price": "2,337",
+          "diff_yen": "+241",
+          "diff_percent": "+11.50",
+          "trading_value": "13,696,525,000"
+        },
+        {
+          "rank": 59,
+          "code": "8136",
+          "company": "(株)サンリオ",
+          "price": "1,168.5",
+          "diff_yen": "+17.5",
+          "diff_percent": "+1.52",
+          "trading_value": "13,293,274,000"
+        },
+        {
+          "rank": 60,
+          "code": "5713",
+          "company": "住友金属鉱山(株)",
+          "price": "7,482",
+          "diff_yen": "+20",
+          "diff_percent": "+0.27",
+          "trading_value": "12,983,823,500"
+        },
+        {
+          "rank": 61,
+          "code": "2802",
+          "company": "味の素(株)",
+          "price": "5,868",
+          "diff_yen": "+37",
+          "diff_percent": "+0.63",
+          "trading_value": "12,066,118,000"
+        },
+        {
+          "rank": 62,
+          "code": "6971",
+          "company": "京セラ(株)",
+          "price": "3,755",
+          "diff_yen": "+14",
+          "diff_percent": "+0.37",
+          "trading_value": "11,668,815,600"
+        },
+        {
+          "rank": 63,
+          "code": "6479",
+          "company": "ミネベアミツミ(株)",
+          "price": "4,399",
+          "diff_yen": "+27",
+          "diff_percent": "+0.62",
+          "trading_value": "11,646,394,100"
+        },
+        {
+          "rank": 64,
+          "code": "3110",
+          "company": "日東紡",
+          "price": "3,595",
+          "diff_yen": "+25",
+          "diff_percent": "+0.70",
+          "trading_value": "11,478,939,500"
+        },
+        {
+          "rank": 65,
+          "code": "1605",
+          "company": "(株)ＩＮＰＥＸ",
+          "price": "3,393",
+          "diff_yen": "+112",
+          "diff_percent": "+3.41",
+          "trading_value": "11,448,896,200"
+        },
+        {
+          "rank": 66,
+          "code": "6315",
+          "company": "ＴＯＷＡ(株)",
+          "price": "2,995",
+          "diff_yen": "-110",
+          "diff_percent": "-3.54",
+          "trading_value": "11,203,004,800"
+        },
+        {
+          "rank": 67,
+          "code": "6361",
+          "company": "荏原",
+          "price": "5,996",
+          "diff_yen": "+73",
+          "diff_percent": "+1.23",
+          "trading_value": "10,903,998,600"
+        },
+        {
+          "rank": 68,
+          "code": "7267",
+          "company": "ホンダ",
+          "price": "1,531",
+          "diff_yen": "-39.5",
+          "diff_percent": "-2.52",
+          "trading_value": "10,816,644,250"
+        },
+        {
+          "rank": 69,
+          "code": "8308",
+          "company": "(株)りそなホールディングス",
+          "price": "2,357.5",
+          "diff_yen": "+31.5",
+          "diff_percent": "+1.35",
+          "trading_value": "10,711,103,400"
+        },
+        {
+          "rank": 70,
+          "code": "8001",
+          "company": "伊藤忠商事(株)",
+          "price": "1,888",
+          "diff_yen": "-16",
+          "diff_percent": "-0.84",
+          "trading_value": "10,535,333,250"
+        },
+        {
+          "rank": 71,
+          "code": "4519",
+          "company": "中外製薬(株)",
+          "price": "7,472",
+          "diff_yen": "-148",
+          "diff_percent": "-1.94",
+          "trading_value": "10,471,192,200"
+        },
+        {
+          "rank": 72,
+          "code": "9501",
+          "company": "東京電力ホールディングス(株)",
+          "price": "482.9",
+          "diff_yen": "+20.6",
+          "diff_percent": "+4.46",
+          "trading_value": "10,309,607,940"
+        },
+        {
+          "rank": 73,
+          "code": "8002",
+          "company": "丸紅(株)",
+          "price": "5,008",
+          "diff_yen": "-40",
+          "diff_percent": "-0.79",
+          "trading_value": "10,030,363,900"
+        },
+        {
+          "rank": 74,
+          "code": "7453",
+          "company": "(株)良品計画",
+          "price": "3,802",
+          "diff_yen": "-9",
+          "diff_percent": "-0.24",
+          "trading_value": "9,875,411,200"
+        },
+        {
+          "rank": 75,
+          "code": "2502",
+          "company": "アサヒグループホールディングス(株)",
+          "price": "1,670",
+          "diff_yen": "+59.5",
+          "diff_percent": "+3.69",
+          "trading_value": "9,760,778,250"
+        },
+        {
+          "rank": 76,
+          "code": "6324",
+          "company": "(株)ハーモニック・ドライブ・システムズ",
+          "price": "7,750",
+          "diff_yen": "-190",
+          "diff_percent": "-2.39",
+          "trading_value": "9,470,374,000"
+        },
+        {
+          "rank": 77,
+          "code": "6590",
+          "company": "芝浦メカトロニクス(株)",
+          "price": "5,630",
+          "diff_yen": "0",
+          "diff_percent": "0.00",
+          "trading_value": "9,438,447,000"
+        },
+        {
+          "rank": 78,
+          "code": "584A",
+          "company": "ＬｉＮＫＸ(株)",
+          "price": "4,030",
+          "diff_yen": "+305",
+          "diff_percent": "+8.19",
+          "trading_value": "9,273,183,000"
+        },
+        {
+          "rank": 79,
+          "code": "8725",
+          "company": "ＭＳ＆ＡＤインシュアランスグループホールディングス(株)",
+          "price": "4,535",
+          "diff_yen": "+1",
+          "diff_percent": "+0.02",
+          "trading_value": "9,195,339,500"
+        },
+        {
+          "rank": 80,
+          "code": "7003",
+          "company": "(株)三井Ｅ＆Ｓ",
+          "price": "4,671",
+          "diff_yen": "-125",
+          "diff_percent": "-2.61",
+          "trading_value": "9,192,833,600"
+        },
+        {
+          "rank": 81,
+          "code": "5344",
+          "company": "(株)ＭＡＲＵＷＡ",
+          "price": "60,810",
+          "diff_yen": "+1,230",
+          "diff_percent": "+2.06",
+          "trading_value": "9,151,236,000"
+        },
+        {
+          "rank": 82,
+          "code": "8591",
+          "company": "オリックス(株)",
+          "price": "6,444",
+          "diff_yen": "+26",
+          "diff_percent": "+0.41",
+          "trading_value": "8,929,625,000"
+        },
+        {
+          "rank": 83,
+          "code": "8053",
+          "company": "住友商事(株)",
+          "price": "1,579",
+          "diff_yen": "-30.5",
+          "diff_percent": "-1.89",
+          "trading_value": "8,801,537,250"
+        },
+        {
+          "rank": 84,
+          "code": "4502",
+          "company": "武田薬品工業(株)",
+          "price": "5,496",
+          "diff_yen": "+48",
+          "diff_percent": "+0.88",
+          "trading_value": "8,732,557,100"
+        },
+        {
+          "rank": 85,
+          "code": "6273",
+          "company": "ＳＭＣ(株)",
+          "price": "71,530",
+          "diff_yen": "-1,010",
+          "diff_percent": "-1.39",
+          "trading_value": "8,599,167,000"
+        },
+        {
+          "rank": 86,
+          "code": "4755",
+          "company": "楽天グループ(株)",
+          "price": "811.1",
+          "diff_yen": "+19",
+          "diff_percent": "+2.40",
+          "trading_value": "8,598,556,710"
+        },
+        {
+          "rank": 87,
+          "code": "8309",
+          "company": "三井住友トラストグループ(株)",
+          "price": "6,659",
+          "diff_yen": "+104",
+          "diff_percent": "+1.59",
+          "trading_value": "8,547,475,900"
+        },
+        {
+          "rank": 88,
+          "code": "7182",
+          "company": "(株)ゆうちょ銀行",
+          "price": "3,362",
+          "diff_yen": "+55",
+          "diff_percent": "+1.66",
+          "trading_value": "8,518,020,600"
+        },
+        {
+          "rank": 89,
+          "code": "9104",
+          "company": "(株)商船三井",
+          "price": "5,454",
+          "diff_yen": "+132",
+          "diff_percent": "+2.48",
+          "trading_value": "8,375,331,900"
+        },
+        {
+          "rank": 90,
+          "code": "6702",
+          "company": "富士通(株)",
+          "price": "3,386",
+          "diff_yen": "-6",
+          "diff_percent": "-0.18",
+          "trading_value": "8,312,987,800"
+        },
+        {
+          "rank": 91,
+          "code": "9101",
+          "company": "日本郵船(株)",
+          "price": "5,367",
+          "diff_yen": "+114",
+          "diff_percent": "+2.17",
+          "trading_value": "8,065,450,500"
+        },
+        {
+          "rank": 92,
+          "code": "7269",
+          "company": "スズキ(株)",
+          "price": "2,084.5",
+          "diff_yen": "-45",
+          "diff_percent": "-2.11",
+          "trading_value": "8,054,319,550"
+        },
+        {
+          "rank": 93,
+          "code": "9434",
+          "company": "ソフトバンク(株)",
+          "price": "214.4",
+          "diff_yen": "+2.8",
+          "diff_percent": "+1.32",
+          "trading_value": "7,626,045,030"
+        },
+        {
+          "rank": 94,
+          "code": "5333",
+          "company": "ＮＧＫ(株)",
+          "price": "7,062",
+          "diff_yen": "-63",
+          "diff_percent": "-0.88",
+          "trading_value": "7,415,746,200"
+        },
+        {
+          "rank": 95,
+          "code": "4568",
+          "company": "第一三共(株)",
+          "price": "2,720",
+          "diff_yen": "+1",
+          "diff_percent": "+0.04",
+          "trading_value": "7,319,528,800"
+        },
+        {
+          "rank": 96,
+          "code": "9502",
+          "company": "中部電力(株)",
+          "price": "3,251",
+          "diff_yen": "+17",
+          "diff_percent": "+0.53",
+          "trading_value": "7,310,767,300"
+        },
+        {
+          "rank": 97,
+          "code": "5631",
+          "company": "(株)日本製鋼所",
+          "price": "8,590",
+          "diff_yen": "+318",
+          "diff_percent": "+3.84",
+          "trading_value": "7,235,455,000"
+        },
+        {
+          "rank": 98,
+          "code": "8630",
+          "company": "ＳＯＭＰＯホールディングス(株)",
+          "price": "6,743",
+          "diff_yen": "+101",
+          "diff_percent": "+1.52",
+          "trading_value": "7,159,926,200"
+        },
+        {
+          "rank": 99,
+          "code": "5838",
+          "company": "楽天銀行(株)",
+          "price": "5,789",
+          "diff_yen": "+143",
+          "diff_percent": "+2.53",
+          "trading_value": "7,143,482,400"
+        },
+        {
+          "rank": 100,
+          "code": "4661",
+          "company": "(株)オリエンタルランド",
+          "price": "2,623",
+          "diff_yen": "+38.5",
+          "diff_percent": "+1.49",
+          "trading_value": "7,040,132,600"
+        },
+        {
+          "rank": 101,
+          "code": "9107",
+          "company": "川崎汽船(株)",
+          "price": "2,561.5",
+          "diff_yen": "+42",
+          "diff_percent": "+1.67",
+          "trading_value": "6,678,273,300"
+        },
+        {
+          "rank": 102,
+          "code": "3563",
+          "company": "(株)ＦＯＯＤ　＆　ＬＩＦＥ　ＣＯＭＰＡＮＩＥＳ",
+          "price": "4,974",
+          "diff_yen": "+195",
+          "diff_percent": "+4.08",
+          "trading_value": "6,611,741,100"
+        },
+        {
+          "rank": 103,
+          "code": "5243",
+          "company": "ｎｏｔｅ(株)",
+          "price": "2,275",
+          "diff_yen": "+56",
+          "diff_percent": "+2.52",
+          "trading_value": "6,549,659,200"
+        },
+        {
+          "rank": 104,
+          "code": "3382",
+          "company": "(株)セブン＆アイ・ホールディングス",
+          "price": "2,047.5",
+          "diff_yen": "-9.5",
+          "diff_percent": "-0.46",
+          "trading_value": "6,498,590,800"
+        },
+        {
+          "rank": 105,
+          "code": "7751",
+          "company": "キヤノン(株)",
+          "price": "4,327",
+          "diff_yen": "+11",
+          "diff_percent": "+0.25",
+          "trading_value": "6,448,975,900"
+        },
+        {
+          "rank": 106,
+          "code": "6787",
+          "company": "(株)メイコー",
+          "price": "26,300",
+          "diff_yen": "-270",
+          "diff_percent": "-1.02",
+          "trading_value": "6,399,892,000"
+        },
+        {
+          "rank": 107,
+          "code": "5401",
+          "company": "日本製鉄(株)",
+          "price": "557.7",
+          "diff_yen": "-2.6",
+          "diff_percent": "-0.46",
+          "trading_value": "6,311,329,990"
+        },
+        {
+          "rank": 108,
+          "code": "4901",
+          "company": "富士フイルムホールディングス(株)",
+          "price": "3,606",
+          "diff_yen": "-40",
+          "diff_percent": "-1.10",
+          "trading_value": "6,291,776,400"
+        },
+        {
+          "rank": 109,
+          "code": "8604",
+          "company": "野村ホールディングス(株)",
+          "price": "1,541",
+          "diff_yen": "+6",
+          "diff_percent": "+0.39",
+          "trading_value": "6,286,975,500"
+        },
+        {
+          "rank": 110,
+          "code": "9022",
+          "company": "東海旅客鉄道(株)",
+          "price": "3,635",
+          "diff_yen": "-65",
+          "diff_percent": "-1.76",
+          "trading_value": "6,269,676,200"
+        },
+        {
+          "rank": 111,
+          "code": "7936",
+          "company": "(株)アシックス",
+          "price": "4,647",
+          "diff_yen": "-32",
+          "diff_percent": "-0.68",
+          "trading_value": "6,190,585,900"
+        },
+        {
+          "rank": 112,
+          "code": "6301",
+          "company": "コマツ",
+          "price": "6,570",
+          "diff_yen": "-140",
+          "diff_percent": "-2.09",
+          "trading_value": "6,123,487,900"
+        },
+        {
+          "rank": 113,
+          "code": "9412",
+          "company": "スカパーＪＳＡＴ(株)",
+          "price": "2,603",
+          "diff_yen": "-57",
+          "diff_percent": "-2.14",
+          "trading_value": "5,968,787,400"
+        },
+        {
+          "rank": 114,
+          "code": "6594",
+          "company": "ニデック(株)",
+          "price": "2,603",
+          "diff_yen": "-53",
+          "diff_percent": "-2.00",
+          "trading_value": "5,960,207,500"
+        },
+        {
+          "rank": 115,
+          "code": "8015",
+          "company": "豊田通商(株)",
+          "price": "6,224",
+          "diff_yen": "-52",
+          "diff_percent": "-0.83",
+          "trading_value": "5,696,870,500"
+        },
+        {
+          "rank": 116,
+          "code": "8267",
+          "company": "イオン(株)",
+          "price": "1,459.5",
+          "diff_yen": "-2.5",
+          "diff_percent": "-0.17",
+          "trading_value": "5,628,748,000"
+        },
+        {
+          "rank": 117,
+          "code": "8473",
+          "company": "ＳＢＩホールディングス(株)",
+          "price": "2,744.5",
+          "diff_yen": "+6.5",
+          "diff_percent": "+0.24",
+          "trading_value": "5,508,149,800"
+        },
+        {
+          "rank": 118,
+          "code": "4385",
+          "company": "(株)メルカリ",
+          "price": "4,647",
+          "diff_yen": "+135",
+          "diff_percent": "+2.99",
+          "trading_value": "5,491,914,200"
+        },
+        {
+          "rank": 119,
+          "code": "6504",
+          "company": "富士電機(株)",
+          "price": "13,055",
+          "diff_yen": "-160",
+          "diff_percent": "-1.21",
+          "trading_value": "5,477,748,500"
+        },
+        {
+          "rank": 120,
+          "code": "581A",
+          "company": "ＧＯ(株)",
+          "price": "2,606",
+          "diff_yen": "+106",
+          "diff_percent": "+4.24",
+          "trading_value": "5,435,575,300"
+        },
+        {
+          "rank": 121,
+          "code": "1329",
+          "company": "iシェアーズ・コア 日経225ETF",
+          "price": "7,082",
+          "diff_yen": "-38",
+          "diff_percent": "-0.53",
+          "trading_value": "5,398,881,905"
+        },
+        {
+          "rank": 122,
+          "code": "6178",
+          "company": "日本郵政(株)",
+          "price": "2,392",
+          "diff_yen": "+36.5",
+          "diff_percent": "+1.55",
+          "trading_value": "5,383,756,550"
+        },
+        {
+          "rank": 123,
+          "code": "5332",
+          "company": "ＴＯＴＯ(株)",
+          "price": "8,266",
+          "diff_yen": "-169",
+          "diff_percent": "-2.00",
+          "trading_value": "5,315,972,400"
+        },
+        {
+          "rank": 124,
+          "code": "6383",
+          "company": "(株)ダイフク",
+          "price": "6,732",
+          "diff_yen": "-132",
+          "diff_percent": "-1.92",
+          "trading_value": "5,278,034,900"
+        },
+        {
+          "rank": 125,
+          "code": "6997",
+          "company": "日本ケミコン(株)",
+          "price": "4,065",
+          "diff_yen": "-185",
+          "diff_percent": "-4.35",
+          "trading_value": "5,182,749,000"
+        },
+        {
+          "rank": 126,
+          "code": "4578",
+          "company": "大塚ホールディングス(株)",
+          "price": "11,245",
+          "diff_yen": "-270",
+          "diff_percent": "-2.34",
+          "trading_value": "5,127,600,500"
+        },
+        {
+          "rank": 127,
+          "code": "6965",
+          "company": "浜松ホトニクス(株)",
+          "price": "2,476",
+          "diff_yen": "-1.5",
+          "diff_percent": "-0.06",
+          "trading_value": "5,041,859,750"
+        },
+        {
+          "rank": 128,
+          "code": "2503",
+          "company": "キリンホールディングス(株)",
+          "price": "2,899.5",
+          "diff_yen": "+23",
+          "diff_percent": "+0.80",
+          "trading_value": "5,014,493,800"
+        },
+        {
+          "rank": 129,
+          "code": "4186",
+          "company": "東京応化工業(株)",
+          "price": "9,995",
+          "diff_yen": "-65",
+          "diff_percent": "-0.65",
+          "trading_value": "4,995,069,900"
+        },
+        {
+          "rank": 130,
+          "code": "4503",
+          "company": "アステラス製薬(株)",
+          "price": "2,165.5",
+          "diff_yen": "-9",
+          "diff_percent": "-0.41",
+          "trading_value": "4,985,387,250"
+        },
+        {
+          "rank": 131,
+          "code": "4307",
+          "company": "(株)野村総合研究所",
+          "price": "5,071",
+          "diff_yen": "-48",
+          "diff_percent": "-0.94",
+          "trading_value": "4,968,760,300"
+        },
+        {
+          "rank": 132,
+          "code": "1803",
+          "company": "清水建設(株)",
+          "price": "2,528.5",
+          "diff_yen": "-110.5",
+          "diff_percent": "-4.19",
+          "trading_value": "4,924,739,550"
+        },
+        {
+          "rank": 133,
+          "code": "7532",
+          "company": "(株)パン・パシフィック・インターナショナルホールディングス",
+          "price": "876.9",
+          "diff_yen": "+10.2",
+          "diff_percent": "+1.18",
+          "trading_value": "4,804,805,380"
+        },
+        {
+          "rank": 134,
+          "code": "9766",
+          "company": "コナミグループ(株)",
+          "price": "18,905",
+          "diff_yen": "+180",
+          "diff_percent": "+0.96",
+          "trading_value": "4,803,834,500"
+        },
+        {
+          "rank": 135,
+          "code": "8750",
+          "company": "(株)第一ライフグループ",
+          "price": "1,873.5",
+          "diff_yen": "+14",
+          "diff_percent": "+0.75",
+          "trading_value": "4,761,355,850"
+        },
+        {
+          "rank": 136,
+          "code": "6323",
+          "company": "ローツェ(株)",
+          "price": "4,428",
+          "diff_yen": "+18",
+          "diff_percent": "+0.41",
+          "trading_value": "4,657,652,900"
+        },
+        {
+          "rank": 137,
+          "code": "6902",
+          "company": "(株)デンソー",
+          "price": "1,956.5",
+          "diff_yen": "-28.5",
+          "diff_percent": "-1.44",
+          "trading_value": "4,561,817,150"
+        },
+        {
+          "rank": 138,
+          "code": "4452",
+          "company": "花王(株)",
+          "price": "3,352",
+          "diff_yen": "+51",
+          "diff_percent": "+1.54",
+          "trading_value": "4,537,860,000"
+        },
+        {
+          "rank": 139,
+          "code": "2644",
+          "company": "GX 半導体関連-日本株式",
+          "price": "4,625",
+          "diff_yen": "-42",
+          "diff_percent": "-0.90",
+          "trading_value": "4,522,976,276"
+        },
+        {
+          "rank": 140,
+          "code": "1812",
+          "company": "鹿島",
+          "price": "5,919",
+          "diff_yen": "-170",
+          "diff_percent": "-2.79",
+          "trading_value": "4,498,883,500"
+        },
+        {
+          "rank": 141,
+          "code": "1801",
+          "company": "大成建設(株)",
+          "price": "14,250",
+          "diff_yen": "-620",
+          "diff_percent": "-4.17",
+          "trading_value": "4,443,155,000"
+        },
+        {
+          "rank": 142,
+          "code": "7201",
+          "company": "日産自動車(株)",
+          "price": "314.8",
+          "diff_yen": "-7",
+          "diff_percent": "-2.18",
+          "trading_value": "4,427,453,600"
+        },
+        {
+          "rank": 143,
+          "code": "5831",
+          "company": "(株)しずおかフィナンシャルグループ",
+          "price": "3,404",
+          "diff_yen": "+47",
+          "diff_percent": "+1.40",
+          "trading_value": "4,383,728,800"
+        },
+        {
+          "rank": 144,
+          "code": "8802",
+          "company": "三菱地所(株)",
+          "price": "4,274",
+          "diff_yen": "-84",
+          "diff_percent": "-1.93",
+          "trading_value": "4,351,300,300"
+        },
+        {
+          "rank": 145,
+          "code": "6754",
+          "company": "アンリツ(株)",
+          "price": "4,081",
+          "diff_yen": "+25",
+          "diff_percent": "+0.62",
+          "trading_value": "4,348,761,200"
+        },
+        {
+          "rank": 146,
+          "code": "1459",
+          "company": "楽天 ETF-日経ダブルインバース指数連動型",
+          "price": "108",
+          "diff_yen": "+1",
+          "diff_percent": "+0.93",
+          "trading_value": "4,337,320,771"
+        },
+        {
+          "rank": 147,
+          "code": "7729",
+          "company": "(株)東京精密",
+          "price": "17,955",
+          "diff_yen": "+215",
+          "diff_percent": "+1.21",
+          "trading_value": "4,304,796,000"
+        },
+        {
+          "rank": 148,
+          "code": "6856",
+          "company": "(株)堀場製作所",
+          "price": "25,900",
+          "diff_yen": "-460",
+          "diff_percent": "-1.75",
+          "trading_value": "4,299,007,500"
+        },
+        {
+          "rank": 149,
+          "code": "5108",
+          "company": "(株)ブリヂストン",
+          "price": "3,638",
+          "diff_yen": "0",
+          "diff_percent": "0.00",
+          "trading_value": "4,286,844,300"
+        },
+        {
+          "rank": 150,
+          "code": "7832",
+          "company": "(株)バンダイナムコホールディングス",
+          "price": "4,085",
+          "diff_yen": "+7",
+          "diff_percent": "+0.17",
+          "trading_value": "4,272,219,900"
+        }
+      ],
+      "targets": []
     }
   ]
 }
